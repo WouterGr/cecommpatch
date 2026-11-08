@@ -135,6 +135,11 @@ game/*
 
 !textures/terrain/swampyDirtSide01.tga
 
+# Fonts
+!fonts/
+!fonts/Merriweather-Regular.ttf
+!fonts/OFL-Merriweather.txt
+
 # ui
 !ui/academyOfficeDialog.xml
 !ui/barbershopDialog.xml

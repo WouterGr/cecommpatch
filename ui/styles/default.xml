@@ -5,16 +5,16 @@
 
 	<font name="clarendonCn" file="fonts/ClarendonCn.ttf" size="18"/>
 	<font name="clarendonTitle" file="fonts/ClarendonCn.ttf" size="22"/>
-	<font name="small" file="fonts/Austin.ttf" size="12"/>
-	<font name="default" file="fonts/Austin.ttf" size="14"/>
-	<font name="medium" file="fonts/Austin.ttf" size="16"/>
-	<font name="large" file="fonts/Austin.ttf" size="18"/>
+	<font name="small" file="fonts/Merriweather-Regular.ttf" size="12"/>
+	<font name="default" file="fonts/Merriweather-Regular.ttf" size="14"/>
+	<font name="medium" file="fonts/Merriweather-Regular.ttf" size="16"/>
+	<font name="large" file="fonts/Merriweather-Regular.ttf" size="18"/>
 	<font name="titleButtonFont" file="fonts/ClarendonCn.ttf" size="24"/>
 	<font name="header" file="fonts/Clarendon.ttf" size="48"/>
 	<font name="subheader" file="fonts/Clarendon.ttf" size="36"/>
 	<font name="mainMenuButtonFont" file="fonts/ClarendonCN.ttf" size="18"/>
 	<font name="topBarButtonFont" file="fonts/ClarendonCN.ttf" size="24" />
-	<font name="tooltip_default" file="fonts/Austin.ttf" size="14"/>
+	<font name="tooltip_default" file="fonts/Merriweather-Regular.ttf" size="14"/>
 	<font name="smallcaps" file="fonts/AustinSmallCaps.ttf" size="22"/>
 		
 	<!-- colours -->
